@@ -4,12 +4,12 @@ export default function Topbar() {
   return (
     <div className="Topbarcontainer">
       <div className="TopbarLeft">
-        <span className="logo">social</span>
+        <span className="logo">Social Media</span>
       </div>
       <div className="Topbarcenter">
         <div className="searchbar">
           <Search className="searchicon" />
-          <input placeholder="Serch for friend,post and video" className="searchInput" />
+          <input placeholder="Search for friend,post and video" className="searchInput" />
         </div>
       </div>
       <div className="TopbarRight">

@@ -1,6 +1,6 @@
 .Topbarcontainer{
   height:50px;
-  width:500px;
+  width:1000px;
   background-color:#1877f2;
   display:flex;
   align-items:center;
@@ -17,11 +17,11 @@
 }
 .TopbarLeft{
   flex: 3;
-  background-color:#c10b0b;
+
 }
 .Topbarcenter{
   flex: 5;
- background-color:#7420a2;
+
 }
 
 .searchbar{
@@ -72,12 +72,10 @@
   width:10px;
   height:10px;
   background-color:red;
-  border-radius:50%;
+  border-radius: 50%;
   color:white;
   position:absolute;
-  top:-5px;
-  right:-5px;
-  //right:-1px;
+  top:-0.5px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -88,6 +86,8 @@
 .TopbarImg{
   height:32px;
   width:32px;
-  
+  border-radius:50%;
+  object-fit: cover;
+  cursor:pointer;
 }
   
