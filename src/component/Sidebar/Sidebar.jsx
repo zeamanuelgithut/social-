@@ -50,7 +50,42 @@ export default function Sidebar()
         <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
           <span className="sidebarFriendName">Danel Fikra</span>
         </li>
-        
+        <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
+          <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
+          <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
+          <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
+          <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
+          <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
+          <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
+          <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
+          <li className="sidebarFriend">
+        <img className="sidebarfriendImg" src="/assets/a.jpg" alt="" />
+          <span className="sidebarFriendName">Danel Fikra</span>
+        </li>
         </ui>
       </div>
       
